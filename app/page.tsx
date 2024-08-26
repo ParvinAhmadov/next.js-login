@@ -61,7 +61,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center bg-white">
             <div className="max-w-lg px-5 py-16 text-center md:px-10 md:py-24 lg:py-32">
               <h2 className="mb-8 text-3xl font-bold md:mb-12 md:text-5xl">
-                Start your 14-day free trial
+               Products Dashboard
               </h2>
               <form
                 id="login"
